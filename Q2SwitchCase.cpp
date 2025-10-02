@@ -1,4 +1,4 @@
-//Programmer: Irfan Aiman Zuraidi, 21DIT25F1411
+//Programmer: Irfan Aiman Zuraidi,
 //QUESTION: 2, CASE STATEMENT, 02Oct2025
 #include <iostream>
 using namespace std;
